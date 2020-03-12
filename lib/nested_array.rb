@@ -32,18 +32,17 @@ end
 
 def sorted_matrix
 
-counter = 0
-  sorted_matrix =
-  [
-    ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"],
-    ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
-  ]
-
-while sorted_matrix[] do
-  puts sorted_matrix[0].sort
-  counter += 1
-end
-
+# counter = 0
+#  sorted_matrix =
+#  [
+#    ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"],
+#    ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
+#  ]
+#
+# while sorted_matrix[] do
+#  puts sorted_matrix[0].sort
+#  counter += 1
+# end
 
 end
 
