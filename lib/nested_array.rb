@@ -40,8 +40,9 @@ def sorted_matrix
     ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
   ]
 
-sorted_matrix.sort!
-sorted_matrix
+sorted_matrix.sort! { |a, b| a.min <=> b.min }
+
+
 
 
 end
