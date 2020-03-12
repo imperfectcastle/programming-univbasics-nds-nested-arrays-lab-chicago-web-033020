@@ -38,7 +38,7 @@ counter = 0
   ]
 
 while sorted_matrix[] do
-  puts sorted_matrix[0]
+  puts sorted_matrix[0].sort
   counter += 1
 end
 
