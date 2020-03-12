@@ -40,7 +40,7 @@ def sorted_matrix
     ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
   ]
 
-sorted_matrix[0].sort, sorted_matrix.sort[1] = sorted_matrix
+sorted_matrix[0].sort!, sorted_matrix[1].sort! = sorted_matrix
 
 sorted_matrix
 
