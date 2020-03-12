@@ -44,7 +44,7 @@ while nil do
   sorted_matrix[0].sort
   sorted_matrix[1].sort
 end
-
+sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
