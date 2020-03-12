@@ -33,19 +33,17 @@ def sorted_matrix
   # uses the arrays of conventional and organic produce as before.
   # However, this time, sort each internal array alphabetically by the first character
 
-  counter = 0
+
   sorted_matrix =
   [
     ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"],
     ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
   ]
 
-while sorted_matrix[counter]do
-  sorted_matrix[]
-  counter += 1
+while nil do
+  sorted_matrix[0].sort
+  sorted_matrix[1].sort
 end
-
-
 
 end
 
