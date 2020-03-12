@@ -37,8 +37,8 @@ def sorted_matrix
     ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"],
     ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
   ]
-sorted_matrix[0].sort
-sorted_matrix[1].sort
+return sorted_matrix[0].sort
+return sorted_matrix[1].sort
 
 
 end
