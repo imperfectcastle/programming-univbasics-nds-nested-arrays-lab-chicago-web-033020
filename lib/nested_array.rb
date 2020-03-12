@@ -41,6 +41,7 @@ def sorted_matrix
   ]
 
 double_sorted_matrix = sorted_matrix[[0][1]].sort
+double_sorted_matrix
 
 end
 
