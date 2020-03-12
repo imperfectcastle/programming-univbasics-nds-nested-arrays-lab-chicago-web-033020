@@ -40,8 +40,8 @@ def sorted_matrix
     ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"]
   ]
 
-double_sorted_matrix = sorted_matrix[[0][1]].sort
-puts double_sorted_matrix
+sorted_matrix.sort([[0][1]])
+sorted_matrix
 
 end
 
