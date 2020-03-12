@@ -41,7 +41,7 @@ def sorted_matrix
   ]
 
 sorted_matrix[[0][1]].sort
-
+sorted_matrix
 
 
 end
